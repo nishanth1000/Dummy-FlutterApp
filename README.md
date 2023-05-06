@@ -1,4 +1,4 @@
-# dummy - red
+# dummy - purple
 
 A new Flutter project.
 
