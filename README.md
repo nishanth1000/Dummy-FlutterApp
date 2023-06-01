@@ -12,7 +12,7 @@ News Feed
 • News content across 54 countries.<br>
 • Quick change of news content between countries.<br>
 • News contents are subcategorized into <b>General, Business, Entertainment, Health, Science, Sports, Technology</b>.<br>
-• By default the country is set to India.<br>
+• By default the country is set to India to display news content.<br>
 
 
 ## Screenshots
@@ -33,5 +33,10 @@ News Feed
 
 #### Each Countries News Content in their Official Language
 <pre>
-<img src="screenshots/15.jpg" width="250"> <img src="screenshots/16.jpg" width="250"> <img src="screenshots/17.jpg" width="250"> <img src="screenshots/18.jpg" width="250"> <img src="screenshots/19.jpg" width="250"> <img src="screenshots/20.jpg" width="250">
+<img src="screenshots/15.jpg" width="250"> <img src="screenshots/16.jpg" width="250"> <img src="screenshots/17.jpg" width="250"> <img src="screenshots/18.jpg" width="250"> <img src="screenshots/19.jpg" width="250">
+</pre>
+
+#### Displaying News Article
+<pre>
+<img src="screenshots/6.jpg" width="250">  <img src="screenshots/20.jpg" width="250">
 </pre>
