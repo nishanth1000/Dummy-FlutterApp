@@ -13,6 +13,7 @@ News Feed
 • Quick change of news content between countries.<br>
 • News contents are subcategorized into <b>General, Business, Entertainment, Health, Science, Sports, Technology</b>.<br>
 • By default the country is set to India to display news content.<br>
+• API: NewsAPI<br>
 
 
 ## Screenshots
