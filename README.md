@@ -11,7 +11,7 @@ News Feed
 ## Features
 • News content across 54 countries.<br>
 • Quick change of news content between countries.<br>
-• News contents are subcategorized into <h3>General, Business, Entertainment, Health, Science, Sports, Technology</h3>.<br>
+• News contents are subcategorized into <b>General, Business, Entertainment, Health, Science, Sports, Technology</b>.<br>
 • By default the country is set to India.<br>
 
 
@@ -21,7 +21,17 @@ News Feed
 <img src="screenshots/0.jpg" width="250"> <img src="screenshots/1.jpg" width="250">
 </pre>
 
-#### Default Country's News - India
+#### Sub Categories : General, Business, Entertainment, Health, Science, Sports, Technology
 <pre>
 <img src="screenshots/2.jpg" width="250"> <img src="screenshots/3.jpg" width="250"> <img src="screenshots/4.jpg" width="250"> <img src="screenshots/5.jpg" width="250"> <img src="screenshots/6.jpg" width="250"> <img src="screenshots/7.jpg" width="250"> <img src="screenshots/8.jpg" width="250">
+</pre>
+
+#### Countries List (54 Countries)
+<pre>
+<img src="screenshots/9.jpg" width="250"> <img src="screenshots/10.jpg" width="250"> <img src="screenshots/11.jpg" width="250"> <img src="screenshots/12.jpg" width="250"> <img src="screenshots/13.jpg" width="250"> <img src="screenshots/14.jpg" width="250">
+</pre>
+
+#### Each Countries News Content in their Official Language
+<pre>
+<img src="screenshots/15.jpg" width="250"> <img src="screenshots/16.jpg" width="250"> <img src="screenshots/17.jpg" width="250"> <img src="screenshots/18.jpg" width="250"> <img src="screenshots/19.jpg" width="250"> <img src="screenshots/20.jpg" width="250">
 </pre>
