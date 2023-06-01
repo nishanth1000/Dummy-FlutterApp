@@ -1,14 +1,18 @@
 <h1 align="center">
-Tic-Tac-Toe
+News Feed
 </h1>
 
 <h6 align='right'><a href = 'https://github.com/nishanth1000/TicTacToe-FlutterApp/releases/download/v0.1.1/tictactoe.apk'>Download the App </a></h6>
 
-• An offline Tic-Tac-Toe apk.<br>
-• Built using Flutter
+• A mobile application designed to deliver news content.<br>
+• A single App which can deliver all news content from 54 countries.
+• Displays the news article using the url specified for the news.
 
 ## Features
-• In addition to the classic Tic-Tac-Toe, this game allows the players to sit opposite and play the game, instead of swapping their mobile phones for each of their turns.
+• All news content from 54 countries.
+• Quick change of news content between countries.
+• News contents are subcategorized into General, Business, Entertainment, Health, Science, Sports, Technology
+
 
 ## Screenshots
 #### Updated UI Design
