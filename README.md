@@ -6,7 +6,7 @@ QR Generator
 
 ## Features
 • Create QR Code for a String.<br>
-• Stores all QR Codes in local storage.<br>
+• Stores all QR Codes in the local storage.<br>
 
 ## Screenshots
 #### Home Screen
@@ -14,7 +14,7 @@ QR Generator
 <img src="screenshots/0.jpg" width="250"> <img src="screenshots/1.jpg" width="250">
 </pre>
 
-#### Add QR Code to local storage
+#### Add QR Code to the local storage
 <pre>
 <img src="screenshots/2.jpg" width="250">
 </pre>
