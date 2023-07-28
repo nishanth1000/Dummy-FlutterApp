@@ -2,10 +2,10 @@
 QR Generator
 </h1>
 
-<h6 align='right'><a href = 'https://github.com/nishanth1000/TicTacToe-FlutterApp/releases/download/v0.1.1/tictactoe.apk'>Download the App </a></h6>
+<h6 align='right'><a href = 'https://github.com/nishanth1000/QR-Generator-FlutterApp/releases/download/v0.1.0/qr_generator.apk'>Download the App </a></h6>
 
 ## Features
-• Create QR Code for a .<br>
+• Create QR Code for a String.<br>
 • Stores all QR Codes in local storage.<br>
 
 ## Screenshots
